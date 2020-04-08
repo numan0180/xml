@@ -1,0 +1,225 @@
+<? xml sürümü = " 1.0 " kodlama = " UTF-8 " ?>
+< katalog >
+    < kitap >
+        < id > 01 </ id >
+        < title > Körlük </ title >
+        < yazar > Jose Saramago </ yazar >
+        < yayıncı > Kırmızı Kedi </ yayıncı >
+        < isbn >  9786052980811 </ isbn >
+        < tarih > 2017 </ tarih >
+        < fiyat > 21,00 </ fiyat >
+        < dil > Türkçe </ dil >
+< url > https://www.idefix.com/Kitap/Korluk/Edebiyat/Roman/Dunya-Roman/urunno=0001704045001 </ url >
+    </ kitap >
+    < kitap >
+        < id > 02 </ id >
+        < title > Yüzyıllık Yalnızlık </ title >
+        < yazar > Gabriel Garcia Marquez </ yazar >
+        < yayıncı > Can Yayınları </ yayıncı >
+        < isbn > 9789750719363 </ isbn >
+        < tarih > 2016 </ tarih >
+        < fiyat > 26,34 </ fiyat >
+        < dil > Türkçe </ dil >
+    < url > idefix.com/Kitap/Yuzyillik-Yalnizlik/Edebiyat/Roman/Dunya-Roman/urunno=0000000064137 </ url >
+    </ kitap >
+    < kitap >
+        < id > 03 </ id >
+        < title > Parizyen: Nam-ı Diğer El Partisi </ title >
+        < yazar > Isabella Hammad </ yazar >
+        < yayıncı > Alfa Yayıncılık </ yayıncı >
+        < isbn > 9786050381634 </ isbn >
+        < tarih > 2020 </ tarih >
+        < fiyat > 25,35 </ fiyat >
+        < dil > Türkçe </ dil >
+        < url > https://www.idefix.com/Kitap/Parizyen-Nam-i-Diger-El-Partisi/Edebiyat/Roman/Dunya-Roman/urunno=0001867406001 </ url >
+    </ kitap >
+    < kitap >
+        < id > 04 </ id >
+        < title > Simyacı </ title >
+        < author > Paulo Coelho </ author >
+        < yayıncı > Can Yayınları </ yayıncı >
+        < isbn > 9789750726439 </ isbn >
+        < tarih > 2010 </ tarih >
+        < fiyat > 14,86 </ fiyat >
+        < dil > Türkçe </ dil >
+        < url > https://www.idefix.com/Kitap/Simyaci/Edebiyat/Roman/Dunya-Roman/urunno=0000000064552 </ url >
+    </ kitap >
+    < kitap >
+        < id > 05 </ id >
+        < title > Şeker Portakalı </ title >
+        < yazar > Jose Mauro De Vasconcelos </ yazar >
+        < yayıncı > Can Çocuk Yayınları </ yayıncı >
+        < isbn > 9789750738609 </ isbn >
+        < tarih > 2000 </ tarih >
+        < fiyat > 15,27 </ fiyat >
+        < dil > Türkçe </ dil >
+     < url > https://www.idefix.com/Kitap/Seker-Portakali/Edebiyat/Roman/Dunya-Roman/urunno=0000000064031 </ url >
+    </ kitap >
+    < kitap >
+        < id > 06 </ id >
+        < title > Fahrenheit 451 </ title >
+        < yazar > Ray Bradbury </ yazar >
+        < yayıncı > İthaki Yayınları </ yayıncı >
+        < isbn >  9786053757818 </ isbn >
+        < tarih > 2018 </ tarih >
+        < fiyat > 17,40 </ fiyat >
+        < dil > Türkçe </ dil >
+     < url > https://www.idefix.com/Kitap/Fahrenheit-451/Ray-Bradbury/Edebiyat/Roman/Bilim-Kurgu/urunno=0001750151001 </ url >
+    </ kitap >
+    < kitap >
+        < id > 07 </ id >
+        < title > Kurtlarla Koşan Kadınlar </ title >
+        < yazar > Clarissa P. Estes </ yazar >
+        < yayıncı > Ayrıntı Yayınları </ yayıncı >
+        < isbn > 9789755393636 </ isbn >
+        < tarih > 2003 </ tarih >
+        < fiyat > 38,50 </ fiyat >
+        < dil > Türkçe </ dil >
+        < url > https://www.idefix.com/Kitap/Kurtlarla-Kosan-Kadinlar/Arastirma-Tarih/Kadin/urunno=0000000143077 </ url >
+    </ kitap >
+    < kitap >
+        < id > 08 </ id >
+        < title > Türkiye'nin Yakın Tarihi </ title >
+        < yazar > İlber Ortaylı </ yazar >
+        < yayıncı > Kronik Kitap </ yayıncı >
+        < isbn > 9789752430402 </ isbn >
+        < tarih > 2018 </ tarih >
+        < fiyat > 19,50 </ fiyat >
+        < dil > Türkçe </ dil >
+< url > https://www.idefix.com/Kitap/Turkiyenin-Yakin-Tarihi/Arastirma-Tarih/Tarih/Turk-Tarihi/urunno=0001749407001 </ url >
+    </ kitap >
+    < kitap >
+        < id > 09 </ id >
+        < title > Dünyamızı Değiştiren On İki Hastalık </ title >
+        < yazar > Irwin W. Sherman </ yazar >
+        < yayıncı > İş Bankası Kültür Yayınları </ yayıncı >
+        < isbn > 9786053328902 < isbn >
+        < tarih > 2016 </ tarih >
+        < fiyat > 15,60 </ fiyat >
+        < dil > Türkçe </ dil >
+< url > https://www.idefix.com/Kitap/Dunyamizi-Degistiren-On-Iki-Hastalik/Arastirma-Tarih/Sosyoloji/urunno=0000000724394 </ url >
+    </ kitap >
+    < kitap >
+        < id > 10 </ id >
+        < title >  Büyük Yalanlar </ title >
+        < yazar > Joseph Goebbels </ yazar >
+        < yayıncı > Zeplin Kitap </ yayıncı >
+        < isbn > 9786057775580 </ isbn >
+        < tarih > 2019 </ tarih >
+        < fiyat > 23,83 </ fiyat >
+        < dil > Türkçe </ dil >
+     < url > https://www.idefix.com/Kitap/Buyuk-Yalanlar/Joseph-Goebbels/Arastirma-Tarih/Politika-Arastirma/Dunya-Politika-/urunno=0001841397001 </ url >
+    </ kitap >
+    < kitap >
+        < id > 11 </ id >
+        < title > Coğrafya Mahkumları </ title >
+        < yazar > Tim Marshall </ yazar >
+        < yayıncı > Epsilon Yayınevi </ yayıncı >
+        < isbn > 9786051733968 </ isbn >
+        < tarih > 2018 </ tarih >
+        < fiyat > 17,50 </ fiyat >
+        < dil > Türkçe </ dil >
+     < url > https://www.idefix.com/Kitap/Cografya-Mahkumlari/Arastirma-Tarih/Politikaarastirma/Dunya-Politika/urunno=0001749554001 </ url >
+    </ kitap >
+    < kitap >
+        < id > 12 </ id >
+        < title > Böyle Söyledi Zerdüşt - Hasan Ali Yücel Klasikleri </ title >
+        < yazar > Friedrich Nietzsche </ yazar >
+        < yayıncı > İş Bankası Kültür Yayınları </ yayıncı >
+        < isbn > 9786053603535 </ isbn >
+        < tarih > 2011 </ tarih >
+        < fiyat > 10,80 </ fiyat >
+        < dil > Türkçe </ dil >
+     < url > https://www.idefix.com/Kitap/Boyle-Soyledi-Zerdust-Hasan-Ali-Yucel-Klasikleri/Felsefe/Felsefe-Bilimi/urunno=0000000374251 </ url >
+    </ kitap >
+    < kitap >
+        < id > 13 </ id >
+        < title > Cehennem Acı Çektiğimiz Yer Değil Acı Çektiğimizi Kimsenin Bilmediği Yerdir </ title >
+        < yazar > Hallac-ı Mansur </ yazar >
+        < yayıncı > Destek Yayınları </ yayıncı >
+        < isbn > 9786053117230 </ isbn >
+        < tarih > 2019 </ tarih >
+        < fiyat > 8,25 </ fiyat >
+        < dil > Türkçe </ dil >
+     < url > https://www.idefix.com/Kitap/Cehennem-Aci-Cektigimiz-Yer-Degil-Aci-Cektigimizi-Kimsenin-Bilmedigi-Yerdir/Felsefe/Felsefe-Bilimi/urunno=0001854405001 </ url >
+    </ kitap >
+    < kitap >
+        < id > 14 </ id >
+        < title > Okumak, Yazmak ve Yaşamak Üzerine </ title >
+        < yazar > Arthur Schopenhauer </ yazar >
+        < yayıncı > Say Yayınları </ yayıncı >
+        < isbn > 9789754687002 </ isbn >
+        < tarih > 2016 </ tarih >
+        < fiyat > 10,50 </ fiyat >
+        < dil > Türkçe </ dil >
+< url > https://www.idefix.com/Kitap/Okumak-Yazmak-Ve-Yasamak-Uzerine/Felsefe/Felsefe-Bilimi/urunno=0000000249643 </ url >
+    </ kitap >
+    < kitap >
+        < id > 15 </ id >
+        < title > Sen Beni Aşağılayabilirsin Ama Ben Aşağılanmam </ title >
+        < yazar > Diyojen </ yazar >
+        < yayıncı > Destek Yayınları </ yayıncı >
+        < isbn > 9786053117322 </ isbn >
+        < tarih > 2020 </ tarih >
+        < fiyat > 8,25 </ fiyat >
+        < dil > Türkçe </ dil >
+        < url > https://www.idefix.com/Kitap/Sen-Beni-Asagilayabilirsin-Ama-Ben-Asagilanmam/Felsefe/Felsefe-Bilimi/urunno=0001856870001 </ url >
+    </ kitap >
+    < kitap >
+        < id > 16 </ id >
+        < title > Poetika </ title >
+        < yazar > Aristoteles </ yazar >
+        < yayıncı > İş Bankası Kültür Yayınları </ yayıncı >
+        < isbn > 9786053326649 </ isbn >
+        < tarih > 2016 </ tarih >
+        < fiyat > 6,50 </ fiyat >
+        < dil > Türkçe </ dil >
+        < url > https://www.idefix.com/Kitap/Poetika/Felsefe/Felsefe-Bilimi/urunno=0000000711672 </ url >
+    </ kitap >
+    < kitap >
+        < id > 17 </ id >
+        < title > İçsel Huzur İyi Yaşamın Kapısını Açar </ title >
+        < yazar > EpiktetosEpiktetos </ yazar >
+        < yayıncı > Beta Kitap </ yayıncı >
+        < isbn > Beta Kitap </ isbn >
+        < tarih > 2015 </ tarih >
+        < fiyat > 11,38 </ fiyat >
+        < dil > Türkçe </ dil >
+< url > https://www.idefix.com/Kitap/Icsel-Huzur-Iyi-Yasamin-Kapisini-Acar/Felsefe/Felsefe-Bilimi/urunno=0000000665995 </ url >
+    </ kitap >
+    < kitap >
+        < id > 18 </ id >
+        < title > Metafiziğin Temelleri-Analitik Metafiziğe Giriş </ title >
+        < yazar > Enis Doko </ yazar >
+        < yayıncı > Mona </ yayıncı >
+        < isbn > 9786052182819 </ isbn >
+        < tarih > 2020 </ tarih >
+        < fiyat > 17,55 </ fiyat >
+        < dil > Türkçe </ dil >
+     < url > https://www.idefix.com/Kitap/Metafizigin-Temelleri-Analitik-Metafizige-Giris/Felsefe/Felsefe-Bilimi/urunno=0001868735001 </ url >
+    </ kitap >
+    < kitap >
+        < id > 19 </ id >
+        < title > İyinin ve Kötünün Ötesinde - Gelecekteki Bir Felseye Giriş </ title >
+        < yazar > Friedrich Nietzsche </ yazar >
+        < yayıncı > İş Bankası Kültür Yayınları </ yayıncı >
+        < isbn > 9786053327578 </ isbn >
+        < tarih > 2016 </ tarih >
+        < fiyat > 11,05 </ fiyat >
+        < dil > Türkçe </ dil >
+     < url > https://www.idefix.com/Kitap/Iyinin-Ve-Kotunun-Otesinde-Gelecekteki-Bir-Felseye-Giris/Felsefe/Felsefe-Bilimi/urunno=0000000696777 </ url >
+    </ kitap >
+    < kitap >
+        < id > 20 </ id >
+        < title > Dionysos Dithyrambosları - Hasan Ali Yücel Klasikleri </ title >
+        < yazar > Friedrich Nietzsche </ yazar >
+        < yayıncı > İş Bankası Kültür Yayınları </ yayıncı >
+        < isbn > 9786053603740 </ isbn >
+        < tarih > 2011 </ tarih >
+        < fiyat > 6,02 </ fiyat >
+        < dil > Türkçe </ dil >
+     < url > https://www.idefix.com/Kitap/Dionysos-Dithyramboslari-Hasan-Ali-Yucel-Klasikleri/Felsefe/Felsefe-Bilimi/urunno=0000000376926 </ url >
+    </ kitap >
+    
+       
+</ katalog >
